@@ -1,1 +1,1 @@
-scripts for init files, variables and expansion
+scripts for init files, variables and expansions
