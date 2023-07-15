@@ -1,1 +1,1 @@
-This is a repository for shell basics
+System engineering devops
